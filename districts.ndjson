@@ -6174,3 +6174,720 @@
     "localCouncil":        { "name": "다선거구" }
   }
 }
+{
+  "id": "us-jg-01-ga",
+  "region": {
+    "sido": "울산광역시",
+    "sigungu": "중구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "학성동",
+      "복산1동",
+      "복산2동",
+      "성안동",
+      "중앙동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "us-jg-02-na",
+  "region": {
+    "sido": "울산광역시",
+    "sigungu": "중구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "병영1동",
+      "병영2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "us-jg-03-da",
+  "region": {
+    "sido": "울산광역시",
+    "sigungu": "중구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "우정동",
+      "태화동",
+      "다운동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "us-jg-04-ra",
+  "region": {
+    "sido": "울산광역시",
+    "sigungu": "중구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "반구1동",
+      "반구2동",
+      "약사동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "us-ng-01-ga",
+  "region": {
+    "sido": "울산광역시",
+    "sigungu": "남구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "신정1동",
+      "신정2동",
+      "신정3동",
+      "신정5동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "us-ng-02-na",
+  "region": {
+    "sido": "울산광역시",
+    "sigungu": "남구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "신정4동",
+      "옥동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "us-ng-03-da",
+  "region": {
+    "sido": "울산광역시",
+    "sigungu": "남구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "삼호동",
+      "무거동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "us-ng-04-ra",
+  "region": {
+    "sido": "울산광역시",
+    "sigungu": "남구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "삼산동",
+      "야음장생포동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "us-ng-05-ma",
+  "region": {
+    "sido": "울산광역시",
+    "sigungu": "남구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "달동",
+      "수암동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제5선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "us-ng-06-ba",
+  "region": {
+    "sido": "울산광역시",
+    "sigungu": "남구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "대현동",
+      "선암동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제6선거구" },
+    "localCouncil":        { "name": "바선거구" }
+  }
+}
+{
+  "id": "us-dg-01-ga",
+  "region": {
+    "sido": "울산광역시",
+    "sigungu": "동구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "방어동",
+      "화정동",
+      "대송동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "us-dg-02-na",
+  "region": {
+    "sido": "울산광역시",
+    "sigungu": "동구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "일산동",
+      "전하1동",
+      "전하2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "us-dg-03-da",
+  "region": {
+    "sido": "울산광역시",
+    "sigungu": "동구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "남목1동",
+      "남목2동",
+      "남목3동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "us-bg-01-ga",
+  "region": {
+    "sido": "울산광역시",
+    "sigungu": "북구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "농소1동",
+      "송정동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "us-bg-02-na",
+  "region": {
+    "sido": "울산광역시",
+    "sigungu": "북구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "농소2동",
+      "농소3동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "us-bg-03-da",
+  "region": {
+    "sido": "울산광역시",
+    "sigungu": "북구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "강동동",
+      "효문동",
+      "양정동",
+      "염포동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "us-ujgun-01-ga",
+  "region": {
+    "sido": "울산광역시",
+    "sigungu": "울주군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "온산읍",
+      "온양읍",
+      "청량읍",
+      "서생면",
+      "웅촌면",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "us-ujgun-02-na",
+  "region": {
+    "sido": "울산광역시",
+    "sigungu": "울주군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "언양읍",
+      "삼남읍",
+      "두동면",
+      "두서면",
+      "상북면",
+      "삼동면",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "us-ujgun-03-da",
+  "region": {
+    "sido": "울산광역시",
+    "sigungu": "울주군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "범서읍",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "sj-00-01-00",
+  "region": {
+    "sido": "세종특별자치시",
+    "sigungu": null
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "조치원읍",
+    ],
+    "detailRules": [
+      {
+        "adminUnit": "조치원읍",
+        "type": "ri",
+        "include": [
+          "원리",
+          "상리",
+          "평리",
+          "교리",
+          "정리",
+          "명리",
+          "남리",
+          "침산리",
+        ],
+        "mode": "auto"
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" }
+  }
+}
+{
+  "id": "sj-00-02-00",
+  "region": {
+    "sido": "세종특별자치시",
+    "sigungu": null
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "조치원읍",
+    ],
+    "detailRules": [
+      {
+        "adminUnit": "조치원읍",
+        "type": "ri",
+        "include": [
+          "신흥리",
+          "죽림리",
+          "번암리",
+          "봉산리",
+        ],
+        "mode": "auto"
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" }
+  }
+}
+{
+  "id": "sj-00-03-00",
+  "region": {
+    "sido": "세종특별자치시",
+    "sigungu": null
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "부강면",
+      "금남면",
+      "대평동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" }
+  }
+}
+{
+  "id": "sj-00-04-00",
+  "region": {
+    "sido": "세종특별자치시",
+    "sigungu": null
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "연기면",
+      "연동면",
+      "연서면",
+      "해밀동",
+      "산울동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" }
+  }
+}
+{
+  "id": "sj-00-05-00",
+  "region": {
+    "sido": "세종특별자치시",
+    "sigungu": null
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "전의면",
+      "전동면",
+      "소정면",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제5선거구" }
+  }
+}
+{
+  "id": "sj-00-06-00",
+  "region": {
+    "sido": "세종특별자치시",
+    "sigungu": null
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "장군면",
+      "한솔동",
+      "가람동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제6선거구" }
+  }
+}
+{
+  "id": "sj-00-07-00",
+  "region": {
+    "sido": "세종특별자치시",
+    "sigungu": null
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "도담동",
+    ],
+    "detailRules": [
+      {
+        "adminUnit": "도담동",
+        "type": "tong",
+        "include": [
+          "1~9",
+          "13~19",
+          "22",
+          "25",
+        ],
+        "mode": "manual",
+        "note": "통 단위는 주소 자동 판별 불가, 사용자 선택 필요"
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제7선거구" }
+  }
+}
+{
+  "id": "sj-00-08-00",
+  "region": {
+    "sido": "세종특별자치시",
+    "sigungu": null
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "도담동",
+      "어진동",
+    ],
+    "detailRules": [
+      {
+        "adminUnit": "도담동",
+        "type": "tong",
+        "include": [
+          "10~12",
+          "20·21",
+          "23·24",
+        ],
+        "mode": "manual",
+        "note": "통 단위는 주소 자동 판별 불가, 사용자 선택 필요"
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제8선거구" }
+  }
+}
+{
+  "id": "sj-00-09-00",
+  "region": {
+    "sido": "세종특별자치시",
+    "sigungu": null
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "아름동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제9선거구" }
+  }
+}
+{
+  "id": "sj-00-10-00",
+  "region": {
+    "sido": "세종특별자치시",
+    "sigungu": null
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "종촌동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제10선거구" }
+  }
+}
+{
+  "id": "sj-00-11-00",
+  "region": {
+    "sido": "세종특별자치시",
+    "sigungu": null
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "고운동",
+    ],
+    "detailRules": [
+      {
+        "adminUnit": "고운동",
+        "type": "tong",
+        "include": [
+          "1~4",
+          "6",
+          "13",
+          "15~18",
+          "21",
+          "23~25",
+          "28~30",
+          "34",
+        ],
+        "mode": "manual",
+        "note": "통 단위는 주소 자동 판별 불가, 사용자 선택 필요"
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제11선거구" }
+  }
+}
+{
+  "id": "sj-00-12-00",
+  "region": {
+    "sido": "세종특별자치시",
+    "sigungu": null
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "고운동",
+    ],
+    "detailRules": [
+      {
+        "adminUnit": "고운동",
+        "type": "tong",
+        "include": [
+          "5",
+          "7~12",
+          "14",
+          "19·20",
+          "22",
+          "26·27",
+          "31~33",
+          "35",
+        ],
+        "mode": "manual",
+        "note": "통 단위는 주소 자동 판별 불가, 사용자 선택 필요"
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제12선거구" }
+  }
+}
+{
+  "id": "sj-00-13-00",
+  "region": {
+    "sido": "세종특별자치시",
+    "sigungu": null
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "보람동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제13선거구" }
+  }
+}
+{
+  "id": "sj-00-14-00",
+  "region": {
+    "sido": "세종특별자치시",
+    "sigungu": null
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "소담동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제14선거구" }
+  }
+}
+{
+  "id": "sj-00-15-00",
+  "region": {
+    "sido": "세종특별자치시",
+    "sigungu": null
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "반곡동",
+      "집현동",
+      "합강동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제15선거구" }
+  }
+}
+{
+  "id": "sj-00-16-00",
+  "region": {
+    "sido": "세종특별자치시",
+    "sigungu": null
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "새롬동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제16선거구" }
+  }
+}
+{
+  "id": "sj-00-17-00",
+  "region": {
+    "sido": "세종특별자치시",
+    "sigungu": null
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "나성동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제17선거구" }
+  }
+}
+{
+  "id": "sj-00-18-00",
+  "region": {
+    "sido": "세종특별자치시",
+    "sigungu": null
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "다정동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제18선거구" }
+  }
+}
