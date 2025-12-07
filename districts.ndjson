@@ -17105,3 +17105,2062 @@
     "localCouncil":        { "name": "라선거구" }
   }
 }
+{
+  "id": "gb-ph-01-ga",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "포항시",
+    "hasGu": true
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "흥해읍"
+    ],
+    "administrativeUnits": [
+      {
+        "gu": "북구",
+        "units": [
+          "흥해읍"
+        ]
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "gb-ph-01-na",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "포항시",
+    "hasGu": true
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "신광면",
+      "청하면",
+      "송라면",
+      "기계면",
+      "죽장면",
+      "기북면"
+    ],
+    "administrativeUnits": [
+      {
+        "gu": "북구",
+        "units": [
+          "신광면",
+          "청하면",
+          "송라면",
+          "기계면",
+          "죽장면",
+          "기북면"
+        ]
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "gb-ph-02-da",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "포항시",
+    "hasGu": true
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "용흥동",
+      "우창동"
+    ],
+    "administrativeUnits": [
+      {
+        "gu": "북구",
+        "units": [
+          "용흥동",
+          "우창동"
+        ]
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "gb-ph-03-ra",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "포항시",
+    "hasGu": true
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "양학동",
+      "중앙동",
+      "죽도동"
+    ],
+    "administrativeUnits": [
+      {
+        "gu": "북구",
+        "units": [
+          "양학동",
+          "중앙동",
+          "죽도동"
+        ]
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "gb-ph-04-ma",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "포항시",
+    "hasGu": true
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "장량동",
+      "두호동",
+      "환여동"
+    ],
+    "administrativeUnits": [
+      {
+        "gu": "북구",
+        "units": [
+          "장량동",
+          "두호동",
+          "환여동"
+        ]
+      }
+    ],
+    "detailRules": [
+      {
+        "adminUnit": "장량동",
+        "type": "beopjeongDong",
+        "include": [
+          "양덕동"
+        ],
+        "mode": "auto"
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "gb-ph-05-ba",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "포항시",
+    "hasGu": true
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "장량동"
+    ],
+    "administrativeUnits": [
+      {
+        "gu": "북구",
+        "units": [
+          "장량동"
+        ]
+      }
+    ],
+    "detailRules": [
+      {
+        "adminUnit": "장량동",
+        "type": "beopjeongDong",
+        "include": [
+          "장성동"
+        ],
+        "mode": "auto"
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제5선거구" },
+    "localCouncil":        { "name": "바선거구" }
+  }
+}
+{
+  "id": "gb-ph-06-sa",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "포항시",
+    "hasGu": true
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "해도동",
+      "송도동",
+      "청림동",
+      "제철동"
+    ],
+    "administrativeUnits": [
+      {
+        "gu": "남구",
+        "units": [
+          "해도동",
+          "송도동",
+          "청림동",
+          "제철동"
+        ]
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제6선거구" },
+    "localCouncil":        { "name": "사선거구" }
+  }
+}
+{
+  "id": "gb-ph-06-aa",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "포항시",
+    "hasGu": true
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "구룡포읍",
+      "동해면",
+      "장기면",
+      "호미곶면"
+    ],
+    "administrativeUnits": [
+      {
+        "gu": "남구",
+        "units": [
+          "구룡포읍",
+          "동해면",
+          "장기면",
+          "호미곶면"
+        ]
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제6선거구" },
+    "localCouncil":        { "name": "아선거구" }
+  }
+}
+{
+  "id": "gb-ph-07-ja",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "포항시",
+    "hasGu": true
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "연일읍",
+      "상대동",
+      "대송면"
+    ],
+    "administrativeUnits": [
+      {
+        "gu": "남구",
+        "units": [
+          "연일읍",
+          "상대동",
+          "대송면"
+        ]
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제7선거구" },
+    "localCouncil":        { "name": "자선거구" }
+  }
+}
+{
+  "id": "gb-ph-08-cha",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "포항시",
+    "hasGu": true
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "오천읍"
+    ],
+    "administrativeUnits": [
+      {
+        "gu": "남구",
+        "units": [
+          "오천읍"
+        ]
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제8선거구" },
+    "localCouncil":        { "name": "차선거구" }
+  }
+}
+{
+  "id": "gb-ph-09-ka",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "포항시",
+    "hasGu": true
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "효곡동",
+      "대이동"
+    ],
+    "administrativeUnits": [
+      {
+        "gu": "남구",
+        "units": [
+          "효곡동",
+          "대이동"
+        ]
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제9선거구" },
+    "localCouncil":        { "name": "카선거구" }
+  }
+}
+{
+  "id": "gb-gj-01-ga",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "경주시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "황성동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "gb-gj-01-na",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "경주시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "현곡면",
+      "성건동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "gb-gj-02-da",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "경주시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "동천동",
+      "보덕동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "gb-gj-02-ra",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "경주시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "감포읍",
+      "외동읍",
+      "문무대왕면",
+      "양남면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "gb-gj-03-ma",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "경주시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "안강읍",
+      "강동면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "gb-gj-03-ba",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "경주시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "천북면",
+      "용강동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "바선거구" }
+  }
+}
+{
+  "id": "gb-gj-04-sa",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "경주시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "건천읍",
+      "내남면",
+      "산내면",
+      "서면",
+      "선도동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "사선거구" }
+  }
+}
+{
+  "id": "gb-gj-04-aa",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "경주시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "중부동",
+      "황오동",
+      "황남동",
+      "월성동",
+      "불국동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "아선거구" }
+  }
+}
+{
+  "id": "gb-gc-01-ga",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "김천시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "대곡동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "gb-gc-01-na",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "김천시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "봉산면",
+      "대항면",
+      "구성면",
+      "지례면",
+      "부항면",
+      "대덕면",
+      "증산면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "gb-gc-02-da",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "김천시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "대신동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "gb-gc-02-ra",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "김천시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "자산동",
+      "지좌동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "gb-gc-02-ma",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "김천시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "감천면",
+      "조마면",
+      "평화남산동",
+      "양금동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "gb-gc-03-ba",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "김천시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "율곡동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "바선거구" }
+  }
+}
+{
+  "id": "gb-gc-03-sa",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "김천시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "아포읍",
+      "남면",
+      "농소면",
+      "개령면",
+      "감문면",
+      "어모면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "사선거구" }
+  }
+}
+{
+  "id": "gb-ad-01-ga",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "안동시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "북후면",
+      "서후면",
+      "송하동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "gb-ad-01-na",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "안동시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "옥동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "gb-ad-01-da",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "안동시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "풍천면",
+      "일직면",
+      "남후면",
+      "풍산읍"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "gb-ad-02-ra",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "안동시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "와룡면",
+      "예안면",
+      "도산면",
+      "녹전면",
+      "임동면",
+      "길안면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "gb-ad-02-ma",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "안동시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "남선면",
+      "임하면",
+      "강남동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "gb-ad-02-ba",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "안동시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "용상동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "바선거구" }
+  }
+}
+{
+  "id": "gb-ad-03-sa",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "안동시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "태화동",
+      "평화동",
+      "안기동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "사선거구" }
+  }
+}
+{
+  "id": "gb-ad-03-aa",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "안동시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "중구동",
+      "명륜동",
+      "서구동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "아선거구" }
+  }
+}
+{
+  "id": "gb-gm-01-ga",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "구미시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "송정동",
+      "원평동",
+      "형곡1동",
+      "형곡2동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "gb-gm-02-na",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "구미시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "선주원남동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "gb-gm-02-da",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "구미시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "도량동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "gb-gm-03-ra",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "구미시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "지산동",
+      "신평1동",
+      "신평2동",
+      "비산동",
+      "공단동",
+      "광평동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "gb-gm-04-ma",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "구미시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "상모사곡동",
+      "임오동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "gb-gm-05-ba",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "구미시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "선산읍",
+      "무을면",
+      "옥성면",
+      "도개면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제5선거구" },
+    "localCouncil":        { "name": "바선거구" }
+  }
+}
+{
+  "id": "gb-gm-05-sa",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "구미시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "고아읍"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제5선거구" },
+    "localCouncil":        { "name": "사선거구" }
+  }
+}
+{
+  "id": "gb-gm-06-aa",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "구미시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "산동읍",
+      "해평면",
+      "장천면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제6선거구" },
+    "localCouncil":        { "name": "아선거구" }
+  }
+}
+{
+  "id": "gb-gm-07-ja",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "구미시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "인동동",
+      "진미동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제7선거구" },
+    "localCouncil":        { "name": "자선거구" }
+  }
+}
+{
+  "id": "gb-gm-08-cha",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "구미시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "양포동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제8선거구" },
+    "localCouncil":        { "name": "차선거구" }
+  }
+}
+{
+  "id": "gb-yj-01-ga",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "영주시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "순흥면",
+      "단산면",
+      "부석면",
+      "상망동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "gb-yj-01-na",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "영주시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "하망동",
+      "영주1동",
+      "영주2동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "gb-yj-01-da",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "영주시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "가흥1동",
+      "가흥2동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "gb-yj-02-ra",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "영주시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "평은면",
+      "문수면",
+      "장수면",
+      "이산면",
+      "휴천1동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "gb-yj-02-ma",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "영주시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "휴천2동",
+      "휴천3동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "gb-yj-02-ba",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "영주시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "풍기읍",
+      "안정면",
+      "봉현면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "바선거구" }
+  }
+}
+{
+  "id": "gb-yc-01-ga",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "영천시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "완산동",
+      "남부동",
+      "서부동",
+      "북안면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "gb-yc-01-na",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "영천시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "금호읍",
+      "대창면",
+      "청통면",
+      "신녕면",
+      "화산면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "gb-yc-02-da",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "영천시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "동부동",
+      "중앙동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "gb-yc-02-ra",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "영천시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "자양면",
+      "임고면",
+      "고경면",
+      "화북면",
+      "화남면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "gb-sj-01-ga",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "상주시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "함창읍",
+      "은척면",
+      "공검면",
+      "이안면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "gb-sj-01-na",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "상주시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "외서면",
+      "사벌국면",
+      "중동면",
+      "낙동면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "gb-sj-01-da",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "상주시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "북문동",
+      "계림동",
+      "동문동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "gb-sj-02-ra",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "상주시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "청리면",
+      "공성면",
+      "외남면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "gb-sj-02-ma",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "상주시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "남원동",
+      "동성동",
+      "신흥동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "gb-sj-02-ba",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "상주시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "모동면",
+      "모서면",
+      "내서면",
+      "화동면",
+      "화서면",
+      "화북면",
+      "화남면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "바선거구" }
+  }
+}
+{
+  "id": "gb-mg-01-ga",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "문경시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "문경읍",
+      "가은읍",
+      "마성면",
+      "농암면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "gb-mg-01-na",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "문경시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "점촌2동",
+      "점촌4동",
+      "점촌5동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "gb-mg-02-da",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "문경시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "영순면",
+      "산양면",
+      "산북면",
+      "동로면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "gb-mg-02-ra",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "문경시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "호계면",
+      "점촌1동",
+      "점촌3동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "gb-gs-01-ga",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "경산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "남산면",
+      "서부1동",
+      "남부동",
+      "남천면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "gb-gs-02-na",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "경산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "진량읍"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "gb-gs-02-da",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "경산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "하양읍",
+      "와촌면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "gb-gs-03-ra",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "경산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "중앙동",
+      "서부2동",
+      "북부동",
+      "중방동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "gb-gs-04-ma",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "경산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "압량읍",
+      "자인면",
+      "용성면",
+      "동부동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "gb-gwgun-01-ga",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "군위군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "군위읍",
+      "소보면",
+      "효령면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "군위군" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "gb-gwgun-01-na",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "군위군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "부계면",
+      "우보면",
+      "의흥면",
+      "산성면",
+      "삼국유사면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "군위군" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "gb-usgun-01-ga",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "의성군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "의성읍",
+      "점곡면",
+      "옥산면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "gb-usgun-01-na",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "의성군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "사곡면",
+      "춘산면",
+      "가음면",
+      "금성면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "gb-usgun-02-da",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "의성군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "단촌면",
+      "봉양면",
+      "신평면",
+      "안평면",
+      "안사면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "gb-usgun-02-ra",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "의성군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "구천면",
+      "비안면",
+      "안계면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "gb-usgun-02-ma",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "의성군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "단밀면",
+      "단북면",
+      "다인면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "gb-csgun-01-ga",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "청송군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "청송읍",
+      "파천면",
+      "진보면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "청송군" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "gb-csgun-01-na",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "청송군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "주왕산면",
+      "부남면",
+      "현동면",
+      "현서면",
+      "안덕면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "청송군" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "gb-yygun-01-ga",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "영양군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "영양읍",
+      "일월면",
+      "수비면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "영양군" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "gb-yygun-01-na",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "영양군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "입암면",
+      "청기면",
+      "석보면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "영양군" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "gb-ydgun-01-ga",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "영덕군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "영덕읍",
+      "강구면",
+      "남정면",
+      "달산면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "영덕군" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "gb-ydgun-01-na",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "영덕군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "지품면",
+      "축산면",
+      "영해면",
+      "병곡면",
+      "창수면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "영덕군" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "gb-cdgun-01-ga",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "청도군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "청도읍",
+      "운문면",
+      "금천면",
+      "매전면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "청도군" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "gb-cdgun-01-na",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "청도군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "화양읍",
+      "각남면",
+      "풍각면",
+      "각북면",
+      "이서면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "청도군" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "gb-grgun-01-ga",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "고령군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "대가야읍",
+      "덕곡면",
+      "운수면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "고령군" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "gb-grgun-01-na",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "고령군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "성산면",
+      "다산면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "고령군" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "gb-grgun-01-da",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "고령군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "개진면",
+      "우곡면",
+      "쌍림면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "고령군" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "gb-sjgun-01-ga",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "성주군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "성주읍",
+      "선남면",
+      "월항면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "성주군" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "gb-sjgun-01-na",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "성주군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "용암면",
+      "수륜면",
+      "대가면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "성주군" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "gb-sjgun-01-da",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "성주군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "가천면",
+      "금수면",
+      "벽진면",
+      "초전면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "성주군" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "gb-cggun-01-ga",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "칠곡군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "왜관읍"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "gb-cggun-01-na",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "칠곡군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "지천면",
+      "동명면",
+      "가산면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "gb-cggun-02-da",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "칠곡군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "북삼읍",
+      "약목면",
+      "기산면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "gb-cggun-02-ra",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "칠곡군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "석적읍"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "gb-ycgun-01-ga",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "예천군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "예천읍"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "gb-ycgun-01-na",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "예천군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "용문면",
+      "효자면",
+      "은풍면",
+      "감천면",
+      "보문면",
+      "유천면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "gb-ycgun-02-da",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "예천군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "호명면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "gb-ycgun-02-ra",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "예천군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "용궁면",
+      "개포면",
+      "지보면",
+      "풍양면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "gb-bhgun-01-ga",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "봉화군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "봉화읍",
+      "물야면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "봉화군" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "gb-bhgun-01-na",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "봉화군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "봉성면",
+      "재산면",
+      "명호면",
+      "상운면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "봉화군" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "gb-bhgun-01-da",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "봉화군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "법전면",
+      "춘양면",
+      "소천면",
+      "석포면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "봉화군" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "gb-ujgun-01-ga",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "울진군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "울진읍",
+      "금강송면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "울진군" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "gb-ujgun-01-na",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "울진군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "북면",
+      "죽변면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "울진군" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "gb-ujgun-01-da",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "울진군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "평해읍",
+      "매화면",
+      "기성면",
+      "온정면",
+      "후포면",
+      "근남면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "울진군" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "gb-urgun-01-ga",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "울릉군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "울릉읍"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "울릉군" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "gb-urgun-01-na",
+  "region": {
+    "sido": "경상북도",
+    "sigungu": "울릉군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "서면",
+      "북면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "울릉군" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
