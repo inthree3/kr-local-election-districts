@@ -1,4 +1,4 @@
-# District Parser
+# Korean Local Election Districts
 
 대한민국 지방의회 선거구 데이터
 
