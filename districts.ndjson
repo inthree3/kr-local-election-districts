@@ -2734,3 +2734,1183 @@
     "localCouncil":        { "name": "바선거구" }
   }
 }
+{
+  "id": "bs-jg-jg-ga",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "중구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "중앙동",
+      "대청동",
+      "영주제1동",
+      "영주제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "중구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "bs-jg-jg-na",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "중구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "동광동",
+      "보수동",
+      "부평동",
+      "광복동",
+      "남포동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "중구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "bs-sg-01-ga",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "서구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "동대신제1동",
+      "동대신제2동",
+      "동대신제3동",
+      "부민동",
+      "서대신제1동",
+      "서대신제3동",
+      "서대신제4동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "bs-sg-02-na",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "서구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "아미동",
+      "초장동",
+      "충무동",
+      "남부민제1동",
+      "남부민제2동",
+      "암남동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "bs-dg-01-ga",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "동구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "초량제1동",
+      "초량제2동",
+      "초량제3동",
+      "초량제6동",
+      "수정제1동",
+      "수정제2동",
+      "수정제4동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "bs-dg-02-na",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "동구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "수정제5동",
+      "좌천동",
+      "범일제1동",
+      "범일제2동",
+      "범일제5동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "bs-ydg-01-ga",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "영도구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "남항동",
+      "영선제1동",
+      "영선제2동",
+      "신선동",
+      "봉래제1동",
+      "봉래제2동",
+      "청학제1동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "bs-ydg-02-na",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "영도구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "청학제2동",
+      "동삼제3동",
+      "동삼제1동",
+      "동삼제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "bs-bsjg-01-ga",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "부산진구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "부전제1동",
+      "양정제1동",
+      "양정제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "bs-bsjg-01-na",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "부산진구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "초읍동",
+      "연지동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "bs-bsjg-02-da",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "부산진구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "부암제1동",
+      "부암제3동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "bs-bsjg-02-ra",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "부산진구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "당감제1동",
+      "당감제2동",
+      "당감제4동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "bs-bsjg-03-ma",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "부산진구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "전포제1동",
+      "전포제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "bs-bsjg-03-ba",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "부산진구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "부전제2동",
+      "범천제1동",
+      "범천제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "바선거구" }
+  }
+}
+{
+  "id": "bs-bsjg-04-sa",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "부산진구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "가야제1동",
+      "가야제2동",
+      "개금제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "사선거구" }
+  }
+}
+{
+  "id": "bs-bsjg-04-aa",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "부산진구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "개금제1동",
+      "개금제3동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "아선거구" }
+  }
+}
+{
+  "id": "bs-drg-01-ga",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "동래구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "수민동",
+      "복산동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "bs-drg-01-na",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "동래구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "명륜동",
+      "온천제1동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "bs-drg-02-da",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "동래구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "온천제2동",
+      "온천제3동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "bs-drg-02-ra",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "동래구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "사직제1동",
+      "사직제2동",
+      "사직제3동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "bs-drg-03-ma",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "동래구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "안락제1동",
+      "안락제2동",
+      "명장제1동",
+      "명장제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "bs-ng-01-ga",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "남구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "대연제4동",
+      "대연제5동",
+      "대연제6동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "bs-ng-01-na",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "남구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "용당동",
+      "감만제1동",
+      "감만제2동",
+      "우암동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "bs-ng-02-da",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "남구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "문현제1동",
+      "문현제2동",
+      "문현제3동",
+      "문현제4동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "bs-ng-03-ra",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "남구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "대연제1동",
+      "대연제3동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "bs-ng-04-ma",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "남구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "용호제1동",
+      "용호제2동",
+      "용호제3동",
+      "용호제4동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "bs-bg-01-ga",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "북구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "구포제1동",
+      "구포제2동",
+      "구포제3동",
+      "덕천제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "bs-bg-02-na",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "북구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "덕천제1동",
+      "덕천제3동",
+      "만덕제1동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "bs-bg-02-da",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "북구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "만덕제2동",
+      "만덕제3동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "bs-bg-03-ra",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "북구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "금곡동",
+      "화명제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "bs-bg-04-ma",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "북구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "화명제1동",
+      "화명제3동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "bs-hudg-01-ga",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "해운대구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "우제1동",
+      "중제1동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "bs-hudg-01-na",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "해운대구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "우제2동",
+      "우제3동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "bs-hudg-02-da",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "해운대구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "중제2동",
+      "좌제2동",
+      "송정동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "bs-hudg-02-ra",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "해운대구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "좌제1동",
+      "좌제3동",
+      "좌제4동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "bs-hudg-03-ma",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "해운대구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "재송제1동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "bs-hudg-03-ba",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "해운대구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "재송제2동",
+      "반여제2동",
+      "반여제3동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "바선거구" }
+  }
+}
+{
+  "id": "bs-hudg-04-sa",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "해운대구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "반여제1동",
+      "반여제4동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "사선거구" }
+  }
+}
+{
+  "id": "bs-hudg-04-aa",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "해운대구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "반송제1동",
+      "반송제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "아선거구" }
+  }
+}
+{
+  "id": "bs-shg-01-ga",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "사하구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "괴정제1동",
+      "괴정제2동",
+      "괴정제3동",
+      "괴정제4동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "bs-shg-02-na",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "사하구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "당리동",
+      "하단제1동",
+      "하단제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "bs-shg-03-da",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "사하구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "신평제1동",
+      "신평제2동",
+      "구평동",
+      "감천제1동",
+      "감천제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "bs-shg-04-ra",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "사하구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "장림제1동",
+      "장림제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "bs-shg-04-ma",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "사하구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "다대제1동",
+      "다대제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "bs-gjg-01-ga",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "금정구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "서제1동",
+      "서제2동",
+      "서제3동",
+      "금사회동동",
+      "부곡제1동",
+      "부곡제4동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "bs-gjg-01-na",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "금정구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "부곡제2동",
+      "부곡제3동",
+      "선두구동",
+      "장전제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "bs-gjg-02-da",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "금정구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "장전제1동",
+      "청룡노포동",
+      "구서제1동",
+      "금성동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "bs-gjg-02-ra",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "금정구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "남산동",
+      "구서제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "bs-gsg-01-ga",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "강서구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "대저1동",
+      "대저2동",
+      "강동동",
+      "명지1동",
+      "가락동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "bs-gsg-02-na",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "강서구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "명지2동",
+      "녹산동",
+      "가덕도동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "bs-yjg-01-ga",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "연제구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "거제제1동",
+      "거제제2동",
+      "거제제3동",
+      "거제제4동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "bs-yjg-01-na",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "연제구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "연산제2동",
+      "연산제4동",
+      "연산제5동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "bs-yjg-02-da",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "연제구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "연산제1동",
+      "연산제3동",
+      "연산제6동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "bs-yjg-02-ra",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "연제구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "연산제8동",
+      "연산제9동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "bs-syg-01-ga",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "수영구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "남천제1동",
+      "남천제2동",
+      "광안제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "bs-syg-01-na",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "수영구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "광안제1동",
+      "광안제3동",
+      "광안제4동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "bs-syg-02-da",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "수영구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "망미제1동",
+      "망미제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "bs-syg-02-ra",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "수영구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "수영동",
+      "민락동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "bs-ssg-01-ga",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "사상구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "삼락동",
+      "덕포제1동",
+      "덕포제2동",
+      "괘법동",
+      "감전동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "bs-ssg-01-na",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "사상구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "모라제1동",
+      "모라제3동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "bs-ssg-02-da",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "사상구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "주례제1동",
+      "주례제2동",
+      "주례제3동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "bs-ssg-02-ra",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "사상구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "학장동",
+      "엄궁동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "bs-gjgun-01-ga",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "기장군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "기장읍",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "bs-gjgun-02-na",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "기장군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "일광읍",
+      "철마면",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "bs-gjgun-02-da",
+  "region": {
+    "sido": "부산광역시",
+    "sigungu": "기장군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "장안읍",
+      "정관읍",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
