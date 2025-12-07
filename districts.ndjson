@@ -12780,3 +12780,1283 @@
     "localCouncil":        { "name": "나선거구" }
   }
 }
+{
+  "id": "cn-ca-01-ga",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "천안시",
+    "hasGu": true
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "목천읍",
+      "북면",
+      "성남면",
+      "수신면",
+      "병천면",
+      "동면",
+      "원성1동",
+      "원성2동"
+    ],
+    "administrativeUnits": [
+      {
+        "gu": "동남구",
+        "units": [
+          "목천읍",
+          "북면",
+          "성남면",
+          "수신면",
+          "병천면",
+          "동면",
+          "원성1동",
+          "원성2동"
+        ]
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "cn-ca-02-na",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "천안시",
+    "hasGu": true
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "중앙동",
+      "일봉동",
+      "신안동"
+    ],
+    "administrativeUnits": [
+      {
+        "gu": "동남구",
+        "units": [
+          "중앙동",
+          "일봉동",
+          "신안동"
+        ]
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "cn-ca-03-da",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "천안시",
+    "hasGu": true
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "문성동",
+      "봉명동",
+      "성정1동",
+      "성정2동"
+    ],
+    "administrativeUnits": [
+      {
+        "gu": "동남구",
+        "units": [
+          "문성동",
+          "봉명동"
+        ]
+      },
+      {
+        "gu": "서북구",
+        "units": [
+          "성정1동",
+          "성정2동"
+        ]
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "cn-ca-04-ra",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "천안시",
+    "hasGu": true
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "불당1동",
+      "불당2동"
+    ],
+    "administrativeUnits": [
+      {
+        "gu": "서북구",
+        "units": [
+          "불당1동",
+          "불당2동"
+        ]
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "cn-ca-05-ma",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "천안시",
+    "hasGu": true
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "성환읍",
+      "직산읍",
+      "입장면"
+    ],
+    "administrativeUnits": [
+      {
+        "gu": "서북구",
+        "units": [
+          "성환읍",
+          "직산읍",
+          "입장면"
+        ]
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제5선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "cn-ca-06-ba",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "천안시",
+    "hasGu": true
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "성거읍",
+      "부성1동"
+    ],
+    "administrativeUnits": [
+      {
+        "gu": "서북구",
+        "units": [
+          "성거읍",
+          "부성1동"
+        ]
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제6선거구" },
+    "localCouncil":        { "name": "바선거구" }
+  }
+}
+{
+  "id": "cn-ca-07-sa",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "천안시",
+    "hasGu": true
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "부성2동"
+    ],
+    "administrativeUnits": [
+      {
+        "gu": "서북구",
+        "units": [
+          "부성2동"
+        ]
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제7선거구" },
+    "localCouncil":        { "name": "사선거구" }
+  }
+}
+{
+  "id": "cn-ca-08-aa",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "천안시",
+    "hasGu": true
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "백석동"
+    ],
+    "administrativeUnits": [
+      {
+        "gu": "서북구",
+        "units": [
+          "백석동"
+        ]
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제8선거구" },
+    "localCouncil":        { "name": "아선거구" }
+  }
+}
+{
+  "id": "cn-ca-09-ja",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "천안시",
+    "hasGu": true
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "풍세면",
+      "광덕면",
+      "신방동"
+    ],
+    "administrativeUnits": [
+      {
+        "gu": "동남구",
+        "units": [
+          "풍세면",
+          "광덕면",
+          "신방동"
+        ]
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제9선거구" },
+    "localCouncil":        { "name": "자선거구" }
+  }
+}
+{
+  "id": "cn-ca-10-ca",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "천안시",
+    "hasGu": true
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "청룡동"
+    ],
+    "administrativeUnits": [
+      {
+        "gu": "동남구",
+        "units": [
+          "청룡동"
+        ]
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제10선거구" },
+    "localCouncil":        { "name": "차선거구" }
+  }
+}
+{
+  "id": "cn-ca-11-ka",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "천안시",
+    "hasGu": true
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "쌍용1동",
+      "쌍용2동",
+      "쌍용3동"
+    ],
+    "administrativeUnits": [
+      {
+        "gu": "서북구",
+        "units": [
+          "쌍용1동",
+          "쌍용2동",
+          "쌍용3동"
+        ]
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제11선거구" },
+    "localCouncil":        { "name": "카선거구" }
+  }
+}
+{
+  "id": "cn-gj-01-ga",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "공주시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "유구읍",
+      "우성면",
+      "사곡면",
+      "신풍면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "cn-gj-01-na",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "공주시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "의당면",
+      "정안면",
+      "신관동",
+      "월송동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "cn-gj-02-da",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "공주시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "이인면",
+      "탄천면",
+      "계룡면",
+      "반포면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "cn-gj-02-ra",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "공주시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "중학동",
+      "웅진동",
+      "금학동",
+      "옥룡동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "cn-br-01-ga",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "보령시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "웅천읍",
+      "남포면",
+      "주산면",
+      "미산면",
+      "성주면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "cn-br-01-na",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "보령시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "대천3동",
+      "대천4동",
+      "대천5동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "cn-br-02-da",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "보령시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "주포면",
+      "오천면",
+      "천북면",
+      "청소면",
+      "청라면",
+      "주교면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "cn-br-02-ra",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "보령시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "대천1동",
+      "대천2동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "cn-as-01-ga",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "아산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "선장면",
+      "도고면",
+      "신창면",
+      "온양4동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "cn-as-02-na",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "아산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "온양1동",
+      "온양2동",
+      "온양3동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "cn-as-03-da",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "아산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "온양5동",
+      "온양6동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "cn-as-04-ra",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "아산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "배방읍",
+      "탕정면",
+      "염치읍"
+    ],
+    "detailRules": [
+      {
+        "adminUnit": "배방읍",
+        "type": "ri",
+        "include": [
+          "세교리",
+          "장재리",
+          "휴대리"
+        ],
+        "mode": "auto"
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "cn-as-05-ma",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "아산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "배방읍",
+      "송악면"
+    ],
+    "detailRules": [
+      {
+        "adminUnit": "배방읍",
+        "type": "ri",
+        "include": [
+          "갈매리",
+          "공수리",
+          "구령리",
+          "북수리",
+          "세출리",
+          "수철리",
+          "신흥리",
+          "중리",
+          "회룡리"
+        ],
+        "mode": "auto"
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제5선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "cn-as-06-ba",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "아산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "음봉면",
+      "둔포면",
+      "영인면",
+      "인주면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제6선거구" },
+    "localCouncil":        { "name": "바선거구" }
+  }
+}
+{
+  "id": "cn-ss-01-ga",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "서산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "대산읍",
+      "지곡면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "cn-ss-01-na",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "서산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "인지면",
+      "부석면",
+      "팔봉면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "cn-ss-02-da",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "서산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "성연면",
+      "부춘동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "cn-ss-02-ra",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "서산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "석남동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "cn-ss-03-ma",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "서산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "음암면",
+      "운산면",
+      "해미면",
+      "고북면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "cn-ss-03-ba",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "서산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "동문1동",
+      "동문2동",
+      "수석동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "바선거구" }
+  }
+}
+{
+  "id": "cn-ns-01-ga",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "논산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "강경읍",
+      "연무읍",
+      "연산면",
+      "벌곡면",
+      "양촌면",
+      "가야곡면",
+      "은진면",
+      "채운면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "cn-ns-02-na",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "논산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "성동면",
+      "광석면",
+      "노성면",
+      "상월면",
+      "부적면",
+      "부창동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "cn-ns-02-da",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "논산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "취암동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "cn-gr-01-ga",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "계룡시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "두마면",
+      "신도안면",
+      "금암동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "계룡시" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "cn-gr-01-na",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "계룡시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "엄사면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "계룡시" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "cn-dj-01-ga",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "당진시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "합덕읍",
+      "면천면",
+      "순성면",
+      "우강면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "cn-dj-01-na",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "당진시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "대호지면",
+      "정미면",
+      "당진2동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "cn-dj-02-da",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "당진시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "송악읍",
+      "신평면",
+      "송산면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "cn-dj-03-ra",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "당진시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "고대면",
+      "석문면",
+      "당진1동",
+      "당진3동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "cn-gsgun-01-ga",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "금산군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "금산읍",
+      "부리면",
+      "남일면",
+      "남이면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "cn-gsgun-02-na",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "금산군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "금성면",
+      "제원면",
+      "군북면",
+      "진산면",
+      "복수면",
+      "추부면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "cn-bygun-01-ga",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "부여군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "부여읍",
+      "규암면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "cn-bygun-02-na",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "부여군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "은산면",
+      "외산면",
+      "내산면",
+      "구룡면",
+      "홍산면",
+      "옥산면",
+      "남면",
+      "충화면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "cn-bygun-02-da",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "부여군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "양화면",
+      "임천면",
+      "장암면",
+      "세도면",
+      "석성면",
+      "초촌면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "cn-scgun-01-ga",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "서천군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "장항읍",
+      "마서면",
+      "화양면",
+      "기산면",
+      "한산면",
+      "마산면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "cn-scgun-02-na",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "서천군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "서천읍",
+      "시초면",
+      "문산면",
+      "판교면",
+      "종천면",
+      "비인면",
+      "서면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "cn-cygun-01-ga",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "청양군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "청양읍",
+      "운곡면",
+      "대치면",
+      "화성면",
+      "비봉면",
+      "정산면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "청양군" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "cn-cygun-01-na",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "청양군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "목면",
+      "청남면",
+      "장평면",
+      "남양면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "청양군" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "cn-hsgun-01-ga",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "홍성군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "홍성읍"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "cn-hsgun-01-na",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "홍성군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "홍북읍"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "cn-hsgun-02-da",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "홍성군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "광천읍",
+      "금마면",
+      "홍동면",
+      "장곡면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "cn-hsgun-02-ra",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "홍성군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "은하면",
+      "결성면",
+      "서부면",
+      "갈산면",
+      "구항면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "cn-ysgun-01-ga",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "예산군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "예산읍"
+    ],
+    "detailRules": [
+      {
+        "adminUnit": "예산읍",
+        "type": "ri",
+        "include": [
+          "예산리",
+          "대회리",
+          "주교리",
+          "산성리",
+          "발연리",
+          "석양리",
+          "관작리",
+          "창소리",
+          "신례원리",
+          "간양리",
+          "궁평리",
+          "수철리"
+        ],
+        "mode": "auto"
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "cn-ysgun-01-na",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "예산군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "예산읍",
+      "대술면",
+      "신양면",
+      "광시면"
+    ],
+    "detailRules": [
+      {
+        "adminUnit": "예산읍",
+        "type": "ri",
+        "include": [
+          "향천리"
+        ],
+        "mode": "auto"
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "cn-ysgun-02-da",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "예산군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "삽교읍",
+      "대흥면",
+      "응봉면",
+      "오가면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "cn-ysgun-02-ra",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "예산군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "덕산면",
+      "봉산면",
+      "고덕면",
+      "신암면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "cn-tagun-01-ga",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "태안군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "태안읍",
+      "원북면",
+      "이원면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "cn-tagun-02-na",
+  "region": {
+    "sido": "충청남도",
+    "sigungu": "태안군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "안면읍",
+      "고남면",
+      "남면",
+      "근흥면",
+      "소원면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
