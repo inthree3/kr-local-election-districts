@@ -14060,3 +14060,1432 @@
     "localCouncil":        { "name": "나선거구" }
   }
 }
+{
+  "id": "jb-jj-01-ga",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "전주시",
+    "hasGu": true
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "중앙동",
+      "풍남동",
+      "노송동",
+      "인후3동"
+    ],
+    "administrativeUnits": [
+      {
+        "gu": "완산구",
+        "units": [
+          "중앙동",
+          "풍남동",
+          "노송동"
+        ]
+      },
+      {
+        "gu": "덕진구",
+        "units": [
+          "인후3동"
+        ]
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "jb-jj-02-na",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "전주시",
+    "hasGu": true
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "완산동",
+      "중화산1동",
+      "중화산2동"
+    ],
+    "administrativeUnits": [
+      {
+        "gu": "완산구",
+        "units": [
+          "완산동",
+          "중화산1동",
+          "중화산2동"
+        ]
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "jb-jj-03-da",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "전주시",
+    "hasGu": true
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "동서학동",
+      "서서학동",
+      "평화1동",
+      "평화2동"
+    ],
+    "administrativeUnits": [
+      {
+        "gu": "완산구",
+        "units": [
+          "동서학동",
+          "서서학동",
+          "평화1동",
+          "평화2동"
+        ]
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "jb-jj-04-ra",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "전주시",
+    "hasGu": true
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "서신동"
+    ],
+    "administrativeUnits": [
+      {
+        "gu": "완산구",
+        "units": [
+          "서신동"
+        ]
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "jb-jj-05-ma",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "전주시",
+    "hasGu": true
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "삼천1동",
+      "삼천2동",
+      "삼천3동",
+      "효자1동"
+    ],
+    "administrativeUnits": [
+      {
+        "gu": "완산구",
+        "units": [
+          "삼천1동",
+          "삼천2동",
+          "삼천3동",
+          "효자1동"
+        ]
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제5선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "jb-jj-06-ba",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "전주시",
+    "hasGu": true
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "효자2동",
+      "효자3동",
+      "효자4동"
+    ],
+    "administrativeUnits": [
+      {
+        "gu": "완산구",
+        "units": [
+          "효자2동",
+          "효자3동",
+          "효자4동"
+        ]
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제6선거구" },
+    "localCouncil":        { "name": "바선거구" }
+  }
+}
+{
+  "id": "jb-jj-07-sa",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "전주시",
+    "hasGu": true
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "효자5동"
+    ],
+    "administrativeUnits": [
+      {
+        "gu": "완산구",
+        "units": [
+          "효자5동"
+        ]
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제7선거구" },
+    "localCouncil":        { "name": "사선거구" }
+  }
+}
+{
+  "id": "jb-jj-08-aa",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "전주시",
+    "hasGu": true
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "진북동",
+      "인후1동",
+      "인후2동",
+      "금암1동",
+      "금암2동"
+    ],
+    "administrativeUnits": [
+      {
+        "gu": "덕진구",
+        "units": [
+          "진북동",
+          "인후1동",
+          "인후2동",
+          "금암1동",
+          "금암2동"
+        ]
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제8선거구" },
+    "localCouncil":        { "name": "아선거구" }
+  }
+}
+{
+  "id": "jb-jj-09-ja",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "전주시",
+    "hasGu": true
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "덕진동",
+      "팔복동",
+      "송천2동"
+    ],
+    "administrativeUnits": [
+      {
+        "gu": "덕진구",
+        "units": [
+          "덕진동",
+          "팔복동",
+          "송천2동"
+        ]
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제9선거구" },
+    "localCouncil":        { "name": "자선거구" }
+  }
+}
+{
+  "id": "jb-jj-10-ca",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "전주시",
+    "hasGu": true
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "우아1동",
+      "우아2동",
+      "호성동"
+    ],
+    "administrativeUnits": [
+      {
+        "gu": "덕진구",
+        "units": [
+          "우아1동",
+          "우아2동",
+          "호성동"
+        ]
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제10선거구" },
+    "localCouncil":        { "name": "차선거구" }
+  }
+}
+{
+  "id": "jb-jj-11-ka",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "전주시",
+    "hasGu": true
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "송천1동"
+    ],
+    "administrativeUnits": [
+      {
+        "gu": "덕진구",
+        "units": [
+          "송천1동"
+        ]
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제11선거구" },
+    "localCouncil":        { "name": "카선거구" }
+  }
+}
+{
+  "id": "jb-jj-12-ta",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "전주시",
+    "hasGu": true
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "조촌동",
+      "여의동",
+      "혁신동"
+    ],
+    "administrativeUnits": [
+      {
+        "gu": "덕진구",
+        "units": [
+          "조촌동",
+          "여의동",
+          "혁신동"
+        ]
+      }
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제12선거구" },
+    "localCouncil":        { "name": "타선거구" }
+  }
+}
+{
+  "id": "jb-gs-01-ga",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "군산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "옥구읍",
+      "옥산면",
+      "회현면",
+      "옥도면",
+      "옥서면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "jb-gs-01-na",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "군산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "해신동",
+      "신풍동",
+      "삼학동",
+      "소룡동",
+      "미성동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "jb-gs-02-da",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "군산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "임피면",
+      "서수면",
+      "대야면",
+      "개정면",
+      "성산면",
+      "나포면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "jb-gs-02-ra",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "군산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "중앙동",
+      "조촌동",
+      "경암동",
+      "구암동",
+      "개정동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "jb-gs-03-ma",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "군산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "월명동",
+      "흥남동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "jb-gs-03-ba",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "군산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "수송동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "바선거구" }
+  }
+}
+{
+  "id": "jb-gs-04-sa",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "군산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "나운1동",
+      "나운2동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "사선거구" }
+  }
+}
+{
+  "id": "jb-gs-04-aa",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "군산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "나운3동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "아선거구" }
+  }
+}
+{
+  "id": "jb-is-01-ga",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "익산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "모현동",
+      "송학동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "jb-is-01-na",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "익산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "중앙동",
+      "평화동",
+      "인화동",
+      "마동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "jb-is-02-da",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "익산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "오산면",
+      "남중동",
+      "신동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "jb-is-02-ra",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "익산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "함열읍",
+      "황등면",
+      "함라면",
+      "웅포면",
+      "성당면",
+      "용안면",
+      "망성면",
+      "용동면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "jb-is-03-ma",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "익산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "어양동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "jb-is-03-ba",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "익산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "삼기면",
+      "영등2동",
+      "삼성동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "바선거구" }
+  }
+}
+{
+  "id": "jb-is-04-sa",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "익산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "동산동",
+      "영등1동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "사선거구" }
+  }
+}
+{
+  "id": "jb-is-04-aa",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "익산시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "낭산면",
+      "여산면",
+      "금마면",
+      "왕궁면",
+      "춘포면",
+      "팔봉동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "아선거구" }
+  }
+}
+{
+  "id": "jb-je-01-ga",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "정읍시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "신태인읍",
+      "북면",
+      "정우면",
+      "감곡면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "jb-je-01-na",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "정읍시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "고부면",
+      "영원면",
+      "덕천면",
+      "이평면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "jb-je-01-da",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "정읍시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "입암면",
+      "소성면",
+      "연지동",
+      "농소동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "jb-je-02-ra",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "정읍시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "태인면",
+      "옹동면",
+      "칠보면",
+      "산내면",
+      "산외면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "jb-je-02-ma",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "정읍시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "내장상동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "jb-je-02-ba",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "정읍시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "수성동",
+      "장명동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "바선거구" }
+  }
+}
+{
+  "id": "jb-je-02-sa",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "정읍시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "시기동",
+      "초산동",
+      "상교동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "사선거구" }
+  }
+}
+{
+  "id": "jb-nw-01-ga",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "남원시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "운봉읍",
+      "아영면",
+      "산내면",
+      "인월면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "jb-nw-01-na",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "남원시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "주천면",
+      "산동면",
+      "이백면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "jb-nw-01-da",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "남원시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "향교동",
+      "도통동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "jb-nw-02-ra",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "남원시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "수지면",
+      "송동면",
+      "금지면",
+      "대강면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "jb-nw-02-ma",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "남원시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "주생면",
+      "대산면",
+      "사매면",
+      "덕과면",
+      "보절면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "jb-nw-02-ba",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "남원시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "동충동",
+      "죽항동",
+      "노암동",
+      "금동",
+      "왕정동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "바선거구" }
+  }
+}
+{
+  "id": "jb-gj-01-ga",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "김제시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "만경읍",
+      "백산면",
+      "공덕면",
+      "청하면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "jb-gj-01-na",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "김제시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "죽산면",
+      "부량면",
+      "성덕면",
+      "진봉면",
+      "광활면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "jb-gj-01-da",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "김제시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "요촌동",
+      "교월동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "jb-gj-02-ra",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "김제시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "봉남면",
+      "황산면",
+      "금산면",
+      "신풍동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "jb-gj-02-ma",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "김제시"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "용지면",
+      "백구면",
+      "금구면",
+      "검산동"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "jb-wjgun-01-ga",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "완주군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "삼례읍",
+      "이서면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "jb-wjgun-01-na",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "완주군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "상관면",
+      "소양면",
+      "구이면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "jb-wjgun-02-da",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "완주군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "봉동읍",
+      "용진읍"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "jb-wjgun-02-ra",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "완주군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "고산면",
+      "비봉면",
+      "운주면",
+      "화산면",
+      "동상면",
+      "경천면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "jb-jagun-01-ga",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "진안군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "진안읍",
+      "백운면",
+      "성수면",
+      "마령면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "진안군" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "jb-jagun-01-na",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "진안군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "용담면",
+      "안천면",
+      "동향면",
+      "상전면",
+      "부귀면",
+      "정천면",
+      "주천면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "진안군" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "jb-mjgun-01-ga",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "무주군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "무주읍",
+      "적상면",
+      "부남면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "무주군" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "jb-mjgun-01-na",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "무주군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "무풍면",
+      "설천면",
+      "안성면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "무주군" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "jb-jsgun-01-ga",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "장수군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "장수읍",
+      "산서면",
+      "번암면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "장수군" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "jb-jsgun-01-na",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "장수군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "장계면",
+      "천천면",
+      "계남면",
+      "계북면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "장수군" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "jb-isgun-01-ga",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "임실군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "임실읍",
+      "성수면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "임실군" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "jb-isgun-01-na",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "임실군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "운암면",
+      "신평면",
+      "신덕면",
+      "관촌면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "임실군" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "jb-isgun-01-da",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "임실군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "청웅면",
+      "오수면",
+      "삼계면",
+      "강진면",
+      "덕치면",
+      "지사면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "임실군" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "jb-scgun-01-ga",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "순창군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "순창읍",
+      "유등면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "순창군" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "jb-scgun-01-na",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "순창군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "인계면",
+      "동계면",
+      "적성면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "순창군" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "jb-scgun-01-da",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "순창군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "풍산면",
+      "금과면",
+      "팔덕면",
+      "복흥면",
+      "쌍치면",
+      "구림면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "순창군" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "jb-gcgun-01-ga",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "고창군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "고창읍",
+      "고수면",
+      "신림면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "jb-gcgun-02-na",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "고창군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "심원면",
+      "흥덕면",
+      "성내면",
+      "부안면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "jb-gcgun-02-da",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "고창군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "공음면",
+      "성송면",
+      "대산면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "jb-gcgun-02-ra",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "고창군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "아산면",
+      "무장면",
+      "상하면",
+      "해리면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "jb-bagun-01-ga",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "부안군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "부안읍",
+      "행안면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "부안군" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "jb-bagun-01-na",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "부안군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "주산면",
+      "동진면",
+      "백산면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "부안군" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "jb-bagun-01-da",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "부안군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "계화면",
+      "변산면",
+      "하서면",
+      "위도면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "부안군" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "jb-bagun-01-ra",
+  "region": {
+    "sido": "전라북도",
+    "sigungu": "부안군"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "보안면",
+      "진서면",
+      "상서면",
+      "줄포면"
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "부안군" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
