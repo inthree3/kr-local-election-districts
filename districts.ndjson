@@ -1,0 +1,2736 @@
+{
+  "id": "su-jrg-01-ga",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "종로구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "청운효자동",
+      "사직동",
+      "무악동",
+      "교남동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "su-jrg-01-na",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "종로구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "삼청동",
+      "부암동",
+      "평창동",
+      "가회동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "su-jrg-02-da",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "종로구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "종로1∙2∙3∙4가동",
+      "이화동",
+      "혜화동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "su-jrg-02-ra",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "종로구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "종로5∙6가동",
+      "창신제1동",
+      "창신제2동",
+      "창신제3동",
+      "숭인제1동",
+      "숭인제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "su-jg-01-ga",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "중구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "소공동",
+      "명동",
+      "광희동",
+      "을지로동",
+      "신당동",
+      "중림동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "su-jg-01-na",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "중구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "신당제5동",
+      "동화동",
+      "황학동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "su-jg-02-da",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "중구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "회현동",
+      "필동",
+      "장충동",
+      "다산동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "su-jg-02-ra",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "중구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "약수동",
+      "청구동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "su-ysg-01-ga",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "용산구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "남영동",
+      "청파동",
+      "효창동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "su-ysg-01-na",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "용산구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "원효로제1동",
+      "원효로제2동",
+      "용문동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "su-ysg-01-da",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "용산구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "한강로동",
+      "이촌제1동",
+      "이촌제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "su-ysg-02-ra",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "용산구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "후암동",
+      "용산2가동",
+      "이태원제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "su-ysg-02-ma",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "용산구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "이태원제1동",
+      "한남동",
+      "서빙고동",
+      "보광동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "su-sdg-01-ga",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "성동구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "금호1가동",
+      "금호2∙3가동",
+      "금호4가동",
+      "옥수동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "su-sdg-02-na",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "성동구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "왕십리제2동",
+      "왕십리도선동",
+      "행당제1동",
+      "행당제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "su-sdg-03-da",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "성동구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "마장동",
+      "사근동",
+      "송정동",
+      "용답동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "su-sdg-04-ra",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "성동구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "응봉동",
+      "성수1가제1동",
+      "성수1가제2동",
+      "성수2가제1동",
+      "성수2가제3동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "su-gjg-01-ga",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "광진구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "중곡제1동",
+      "중곡제2동",
+      "중곡제3동",
+      "중곡제4동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "su-gjg-02-na",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "광진구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "능동",
+      "구의제2동",
+      "광장동",
+      "군자동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "su-gjg-03-da",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "광진구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "자양제1동",
+      "자양제2동",
+      "구의제1동",
+      "구의제3동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "su-gjg-04-ra",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "광진구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "화양동",
+      "자양제3동",
+      "자양제4동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "su-ddmg-01-ga",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "동대문구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "용신동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "su-ddmg-01-na",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "동대문구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "제기동",
+      "청량리동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "su-ddmg-02-da",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "동대문구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "회기동",
+      "휘경제1동",
+      "휘경제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "su-ddmg-02-ra",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "동대문구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "이문제1동",
+      "이문제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "su-ddmg-03-ma",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "동대문구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "전농제1동",
+      "전농제2동",
+      "답십리제1동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "su-ddmg-04-ba",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "동대문구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "답십리제2동",
+      "장안제1동",
+      "장안제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "바선거구" }
+  }
+}
+{
+  "id": "su-jlg-01-ga",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "중랑구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "면목제3∙8동",
+      "망우제3동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "su-jlg-01-na",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "중랑구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "면목제4동",
+      "면목제7동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "su-jlg-02-da",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "중랑구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "면목본동",
+      "면목제2동",
+      "면목제5동",
+      "상봉제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "su-jlg-03-ra",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "중랑구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "묵제1동",
+      "묵제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "su-jlg-03-ma",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "중랑구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "중화제1동",
+      "중화제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "su-jlg-04-ba",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "중랑구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "상봉제1동",
+      "신내제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "바선거구" }
+  }
+}
+{
+  "id": "su-jlg-04-sa",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "중랑구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "망우본동",
+      "신내제1동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "사선거구" }
+  }
+}
+{
+  "id": "su-sbg-01-ga",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "성북구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "성북동",
+      "삼선동",
+      "동선동",
+      "돈암제2동",
+      "안암동",
+      "보문동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "su-sbg-02-na",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "성북구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "정릉제2동",
+      "정릉제3동",
+      "정릉제4동",
+      "정릉제1동",
+      "길음제1동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "su-sbg-03-da",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "성북구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "돈암제1동",
+      "종암동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "su-sbg-03-ra",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "성북구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "길음제2동",
+      "월곡제1동",
+      "월곡제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "su-sbg-04-ma",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "성북구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "장위제1동",
+      "장위제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "su-sbg-04-ba",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "성북구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "장위제3동",
+      "석관동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "바선거구" }
+  }
+}
+{
+  "id": "su-gbg-01-ga",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "강북구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "번1동",
+      "번2동",
+      "수유2동",
+      "수유3동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "su-gbg-02-na",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "강북구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "수유1동",
+      "우이동",
+      "인수동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "su-gbg-03-da",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "강북구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "삼양동",
+      "송천동",
+      "삼각산동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "su-gbg-04-ra",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "강북구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "미아동",
+      "송중동",
+      "번3동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "su-dbg-01-ga",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "도봉구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "창1동",
+      "창4동",
+      "창5동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "su-dbg-02-na",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "도봉구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "쌍문1동",
+      "쌍문3동",
+      "창2동",
+      "창3동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "su-dbg-03-da",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "도봉구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "쌍문2동",
+      "쌍문4동",
+      "방학3동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "su-dbg-04-ra",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "도봉구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "도봉1동",
+      "도봉2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "su-dbg-04-ma",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "도봉구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "방학1동",
+      "방학2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "su-nwg-01-ga",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "노원구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "월계1동",
+      "월계2동",
+      "월계3동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "su-nwg-02-na",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "노원구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "공릉1동",
+      "공릉2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "su-nwg-03-da",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "노원구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "하계1동",
+      "중계본동",
+      "중계1동",
+      "중계4동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "su-nwg-04-ra",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "노원구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "하계2동",
+      "중계2∙3동",
+      "상계6∙7동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "su-nwg-05-ma",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "노원구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "상계2동",
+      "상계3∙4동",
+      "상계5동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제5선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "su-nwg-06-ba",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "노원구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "상계1동",
+      "상계8동",
+      "상계9동",
+      "상계10동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제6선거구" },
+    "localCouncil":        { "name": "바선거구" }
+  }
+}
+{
+  "id": "su-epg-01-ga",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "은평구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "녹번동",
+      "응암제1동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "su-epg-01-na",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "은평구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "응암제2동",
+      "응암제3동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "su-epg-02-da",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "은평구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "신사제2동",
+      "증산동",
+      "수색동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "su-epg-02-ra",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "은평구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "역촌동",
+      "신사제1동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "su-epg-03-ma",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "은평구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "갈현제1동",
+      "갈현제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "su-epg-03-ba",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "은평구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "진관동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "바선거구" }
+  }
+}
+{
+  "id": "su-epg-04-sa",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "은평구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "불광제1동",
+      "불광제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "사선거구" }
+  }
+}
+{
+  "id": "su-epg-04-aa",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "은평구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "구산동",
+      "대조동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "아선거구" }
+  }
+}
+{
+  "id": "su-sdmg-01-ga",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "서대문구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "충현동",
+      "천연동",
+      "북아현동",
+      "신촌동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "su-sdmg-02-na",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "서대문구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "연희동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "su-sdmg-02-da",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "서대문구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "홍제제1동",
+      "홍제제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "su-sdmg-03-ra",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "서대문구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "홍제제3동",
+      "홍은제1동",
+      "홍은제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "su-sdmg-04-ma",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "서대문구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "남가좌제1동",
+      "남가좌제2동",
+      "북가좌제1동",
+      "북가좌제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "su-mpg-01-ga",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "마포구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "공덕동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "su-mpg-01-na",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "마포구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "아현동",
+      "도화동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "su-mpg-02-da",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "마포구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "용강동",
+      "신수동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "su-mpg-02-ra",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "마포구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "대흥동",
+      "염리동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "su-mpg-03-ma",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "마포구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "서강동",
+      "합정동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "su-mpg-03-ba",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "마포구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "서교동",
+      "망원1동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "바선거구" }
+  }
+}
+{
+  "id": "su-mpg-04-sa",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "마포구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "망원2동",
+      "연남동",
+      "성산1동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "사선거구" }
+  }
+}
+{
+  "id": "su-mpg-04-aa",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "마포구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "성산2동",
+      "상암동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "아선거구" }
+  }
+}
+{
+  "id": "su-ycg-01-ga",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "양천구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "목2동",
+      "목3동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "su-ycg-01-na",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "양천구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "목4동",
+      "목5동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "su-ycg-02-da",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "양천구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "목1동",
+      "신정1동",
+      "신정2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "su-ycg-02-ra",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "양천구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "신정6동",
+      "신정7동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "su-ycg-03-ma",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "양천구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "신월1동",
+      "신월3동",
+      "신월5동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "su-ycg-03-ba",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "양천구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "신월4동",
+      "신월7동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "바선거구" }
+  }
+}
+{
+  "id": "su-ycg-04-sa",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "양천구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "신월2동",
+      "신정4동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "사선거구" }
+  }
+}
+{
+  "id": "su-ycg-04-aa",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "양천구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "신월6동",
+      "신정3동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "아선거구" }
+  }
+}
+{
+  "id": "su-gsg-01-ga",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "강서구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "화곡제1동",
+      "화곡제2동",
+      "화곡제8동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "su-gsg-02-na",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "강서구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "화곡제3동",
+      "발산제1동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "su-gsg-02-da",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "강서구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "우장산동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "su-gsg-03-ra",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "강서구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "공항동",
+      "방화제1동",
+      "방화제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "su-gsg-04-ma",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "강서구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "가양제1동",
+      "방화제3동",
+      "등촌제3동",
+      "가양제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "su-gsg-05-ba",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "강서구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "염창동",
+      "등촌제1동",
+      "가양제3동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제5선거구" },
+    "localCouncil":        { "name": "바선거구" }
+  }
+}
+{
+  "id": "su-gsg-06-sa",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "강서구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "등촌제2동",
+      "화곡제4동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제6선거구" },
+    "localCouncil":        { "name": "사선거구" }
+  }
+}
+{
+  "id": "su-gsg-06-aa",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "강서구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "화곡본동",
+      "화곡제6동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제6선거구" },
+    "localCouncil":        { "name": "아선거구" }
+  }
+}
+{
+  "id": "su-grg-01-ga",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "구로구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "고척제1동",
+      "고척제2동",
+      "개봉제1동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "su-grg-01-na",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "구로구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "개봉제2동",
+      "개봉제3동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "su-grg-02-da",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "구로구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "오류제1동",
+      "오류제2동",
+      "수궁동",
+      "항동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "su-grg-03-ra",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "구로구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "신도림동",
+      "구로제5동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "su-grg-03-ma",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "구로구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "구로제1동",
+      "구로제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "su-grg-04-ba",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "구로구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "구로제3동",
+      "구로제4동",
+      "가리봉동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "바선거구" }
+  }
+}
+{
+  "id": "su-gcg-01-ga",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "금천구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "가산동",
+      "독산제1동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "su-gcg-01-na",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "금천구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "독산제2동",
+      "독산제3동",
+      "독산제4동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "su-gcg-02-da",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "금천구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "시흥제1동",
+      "시흥제4동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "su-gcg-02-ra",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "금천구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "시흥제2동",
+      "시흥제3동",
+      "시흥제5동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "su-ydpg-01-ga",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "영등포구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "영등포본동",
+      "신길제3동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "su-ydpg-01-na",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "영등포구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "도림동",
+      "문래동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "su-ydpg-02-da",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "영등포구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "영등포동",
+      "당산제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "su-ydpg-02-ra",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "영등포구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "당산제1동",
+      "양평제1동",
+      "양평제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "su-ydpg-03-ma",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "영등포구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "여의동",
+      "신길제1동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "su-ydpg-03-ba",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "영등포구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "신길제4동",
+      "신길제5동",
+      "신길제7동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "바선거구" }
+  }
+}
+{
+  "id": "su-ydpg-04-sa",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "영등포구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "신길제6동",
+      "대림제1동",
+      "대림제2동",
+      "대림제3동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "사선거구" }
+  }
+}
+{
+  "id": "su-djg-01-ga",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "동작구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "노량진제1동",
+      "노량진제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "su-djg-01-na",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "동작구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "상도제2동",
+      "상도제4동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "su-djg-02-da",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "동작구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "상도제3동",
+      "대방동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "su-djg-02-ra",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "동작구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "신대방제1동",
+      "신대방제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "su-djg-03-ma",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "동작구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "상도제1동",
+      "사당제5동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "su-djg-03-ba",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "동작구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "사당제3동",
+      "사당제4동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "바선거구" }
+  }
+}
+{
+  "id": "su-djg-04-sa",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "동작구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "흑석동",
+      "사당제1동",
+      "사당제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "사선거구" }
+  }
+}
+{
+  "id": "su-gag-01-ga",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "관악구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "보라매동",
+      "은천동",
+      "신림동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "su-gag-01-na",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "관악구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "중앙동",
+      "청룡동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "su-gag-02-da",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "관악구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "성현동",
+      "청림동",
+      "행운동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "su-gag-02-ra",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "관악구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "낙성대동",
+      "인헌동",
+      "남현동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "su-gag-03-ma",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "관악구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "신사동",
+      "조원동",
+      "미성동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "su-gag-03-ba",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "관악구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "난곡동",
+      "난향동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "바선거구" }
+  }
+}
+{
+  "id": "su-gag-04-sa",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "관악구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "서원동",
+      "신원동",
+      "서림동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "사선거구" }
+  }
+}
+{
+  "id": "su-gag-04-aa",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "관악구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "삼성동",
+      "대학동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "아선거구" }
+  }
+}
+{
+  "id": "su-scg-01-ga",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "서초구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "잠원동",
+      "반포1동",
+      "반포3동",
+      "반포4동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "su-scg-02-na",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "서초구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "반포본동",
+      "반포2동",
+      "방배본동",
+      "방배1동",
+      "방배4동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "su-scg-03-da",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "서초구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "서초1동",
+      "서초3동",
+      "방배2동",
+      "방배3동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "su-scg-04-ra",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "서초구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "서초2동",
+      "서초4동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "su-scg-04-ma",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "서초구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "양재1동",
+      "양재2동",
+      "내곡동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "su-gng-01-ga",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "강남구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "신사동",
+      "논현1동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "su-gng-01-na",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "강남구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "압구정동",
+      "청담동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "su-gng-02-da",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "강남구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "논현2동",
+      "역삼1동",
+      "역삼2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "su-gng-03-ra",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "강남구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "개포1동",
+      "개포2동",
+      "개포4동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "su-gng-04-ma",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "강남구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "일원본동",
+      "일원1동",
+      "일원2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "su-gng-04-ba",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "강남구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "세곡동",
+      "수서동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "바선거구" }
+  }
+}
+{
+  "id": "su-gng-05-sa",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "강남구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "대치1동",
+      "대치4동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제5선거구" },
+    "localCouncil":        { "name": "사선거구" }
+  }
+}
+{
+  "id": "su-gng-05-aa",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "강남구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "도곡1동",
+      "도곡2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제5선거구" },
+    "localCouncil":        { "name": "아선거구" }
+  }
+}
+{
+  "id": "su-gng-06-ja",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "강남구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "삼성1동",
+      "삼성2동",
+      "대치2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제6선거구" },
+    "localCouncil":        { "name": "자선거구" }
+  }
+}
+{
+  "id": "su-spg-01-ga",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "송파구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "풍납1동",
+      "풍납2동",
+      "잠실4동",
+      "잠실6동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "su-spg-02-na",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "송파구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "방이2동",
+      "오륜동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "su-spg-02-da",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "송파구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "방이1동",
+      "송파1동",
+      "송파2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "su-spg-03-ra",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "송파구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "석촌동",
+      "가락1동",
+      "문정2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "su-spg-04-ma",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "송파구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "잠실본동",
+      "잠실2동",
+      "잠실7동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "su-spg-04-ba",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "송파구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "삼전동",
+      "잠실3동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "바선거구" }
+  }
+}
+{
+  "id": "su-spg-05-sa",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "송파구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "거여1동",
+      "마천1동",
+      "마천2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제5선거구" },
+    "localCouncil":        { "name": "사선거구" }
+  }
+}
+{
+  "id": "su-spg-05-aa",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "송파구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "거여2동",
+      "장지동",
+      "위례동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제5선거구" },
+    "localCouncil":        { "name": "아선거구" }
+  }
+}
+{
+  "id": "su-spg-06-ja",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "송파구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "오금동",
+      "가락본동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제6선거구" },
+    "localCouncil":        { "name": "자선거구" }
+  }
+}
+{
+  "id": "su-spg-06-ca",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "송파구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "가락2동",
+      "문정1동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제6선거구" },
+    "localCouncil":        { "name": "차선거구" }
+  }
+}
+{
+  "id": "su-gdg-01-da",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "강동구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "고덕제1동",
+      "암사제1동",
+      "암사제2동",
+      "암사제3동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "su-gdg-02-na",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "강동구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "명일제1동",
+      "명일제2동",
+      "길동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "su-gdg-03-ga",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "강동구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "강일동",
+      "상일제1동",
+      "상일제2동",
+      "고덕제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "su-gdg-04-ra",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "강동구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "천호제1동",
+      "천호제3동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "su-gdg-04-ma",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "강동구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "천호제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "su-gdg-05-ba",
+  "region": {
+    "sido": "서울특별시",
+    "sigungu": "강동구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "성내제1동",
+      "성내제2동",
+      "성내제3동",
+      "둔촌제1동",
+      "둔촌제2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제5선거구" },
+    "localCouncil":        { "name": "바선거구" }
+  }
+}
