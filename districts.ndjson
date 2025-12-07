@@ -5411,3 +5411,400 @@
     "localCouncil":        { "name": "다선거구" }
   }
 }
+{
+  "id": "gj-dg-01-ga",
+  "region": {
+    "sido": "광주광역시",
+    "sigungu": "동구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "충장동",
+      "동명동",
+      "계림1동",
+      "계림2동",
+      "산수1동",
+      "산수2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "gj-dg-02-na",
+  "region": {
+    "sido": "광주광역시",
+    "sigungu": "동구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "지산1동",
+      "지산2동",
+      "서남동",
+      "학동",
+      "학운동",
+      "지원1동",
+      "지원2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "gj-sg-01-ga",
+  "region": {
+    "sido": "광주광역시",
+    "sigungu": "서구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "양동",
+      "양3동",
+      "농성1동",
+      "농성2동",
+      "화정1동",
+      "화정2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "gj-sg-02-na",
+  "region": {
+    "sido": "광주광역시",
+    "sigungu": "서구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "광천동",
+      "유덕동",
+      "치평동",
+      "상무1동",
+      "동천동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "gj-sg-03-da",
+  "region": {
+    "sido": "광주광역시",
+    "sigungu": "서구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "화정3동",
+      "화정4동",
+      "풍암동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "gj-sg-04-ra",
+  "region": {
+    "sido": "광주광역시",
+    "sigungu": "서구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "상무2동",
+      "서창동",
+      "금호1동",
+      "금호2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "gj-ng-01-ga",
+  "region": {
+    "sido": "광주광역시",
+    "sigungu": "남구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "봉선1동",
+      "월산동",
+      "월산4동",
+      "월산5동",
+      "주월1동",
+      "주월2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "gj-ng-02-na",
+  "region": {
+    "sido": "광주광역시",
+    "sigungu": "남구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "봉선2동",
+      "진월동",
+      "효덕동",
+      "송암동",
+      "대촌동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "gj-ng-03-da",
+  "region": {
+    "sido": "광주광역시",
+    "sigungu": "남구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "양림동",
+      "방림1동",
+      "방림2동",
+      "사직동",
+      "백운1동",
+      "백운2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "gj-bg-01-ga",
+  "region": {
+    "sido": "광주광역시",
+    "sigungu": "북구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "중흥1동",
+      "중흥2동",
+      "중흥3동",
+      "중앙동",
+      "신안동",
+      "임동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "gj-bg-02-na",
+  "region": {
+    "sido": "광주광역시",
+    "sigungu": "북구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "우산동",
+      "문흥1동",
+      "문흥2동",
+      "오치1동",
+      "오치2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "gj-bg-03-da",
+  "region": {
+    "sido": "광주광역시",
+    "sigungu": "북구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "풍향동",
+      "두암1동",
+      "두암3동",
+      "문화동",
+      "두암2동",
+      "석곡동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "gj-bg-04-ra",
+  "region": {
+    "sido": "광주광역시",
+    "sigungu": "북구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "용봉동",
+      "매곡동",
+      "삼각동",
+      "일곡동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "gj-bg-05-ma",
+  "region": {
+    "sido": "광주광역시",
+    "sigungu": "북구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "운암1동",
+      "운암2동",
+      "운암3동",
+      "동림동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제5선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "gj-bg-06-ba",
+  "region": {
+    "sido": "광주광역시",
+    "sigungu": "북구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "건국동",
+      "양산동",
+      "신용동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제6선거구" },
+    "localCouncil":        { "name": "바선거구" }
+  }
+}
+{
+  "id": "gj-gsg-01-ga",
+  "region": {
+    "sido": "광주광역시",
+    "sigungu": "광산구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "송정1동",
+      "송정2동",
+      "도산동",
+      "동곡동",
+      "어룡동",
+      "평동",
+      "삼도동",
+      "본량동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "gj-gsg-02-na",
+  "region": {
+    "sido": "광주광역시",
+    "sigungu": "광산구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "월곡1동",
+      "월곡2동",
+      "운남동",
+      "신흥동",
+      "우산동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "gj-gsg-03-da",
+  "region": {
+    "sido": "광주광역시",
+    "sigungu": "광산구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "첨단1동",
+      "첨단2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "gj-gsg-04-ra",
+  "region": {
+    "sido": "광주광역시",
+    "sigungu": "광산구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "비아동",
+      "신가동",
+      "신창동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "gj-gsg-05-ma",
+  "region": {
+    "sido": "광주광역시",
+    "sigungu": "광산구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "하남동",
+      "임곡동",
+      "수완동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제5선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
