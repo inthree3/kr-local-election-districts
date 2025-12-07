@@ -5808,3 +5808,369 @@
     "localCouncil":        { "name": "마선거구" }
   }
 }
+{
+  "id": "dj-dg-01-ga",
+  "region": {
+    "sido": "대전광역시",
+    "sigungu": "동구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "중앙동",
+      "홍도동",
+      "삼성동",
+      "신인동",
+      "효동",
+      "산내동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "dj-dg-02-na",
+  "region": {
+    "sido": "대전광역시",
+    "sigungu": "동구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "판암1동",
+      "판암2동",
+      "용운동",
+      "대청동",
+      "대동",
+      "자양동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "dj-dg-03-da",
+  "region": {
+    "sido": "대전광역시",
+    "sigungu": "동구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "가양1동",
+      "가양2동",
+      "용전동",
+      "성남동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "dj-jg-01-ga",
+  "region": {
+    "sido": "대전광역시",
+    "sigungu": "중구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "은행선화동",
+      "대흥동",
+      "문창동",
+      "석교동",
+      "대사동",
+      "부사동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "dj-jg-02-na",
+  "region": {
+    "sido": "대전광역시",
+    "sigungu": "중구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "목동",
+      "중촌동",
+      "용두동",
+      "오류동",
+      "태평1동",
+      "태평2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "dj-jg-03-da",
+  "region": {
+    "sido": "대전광역시",
+    "sigungu": "중구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "유천1동",
+      "유천2동",
+      "문화1동",
+      "문화2동",
+      "산성동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "dj-sg-01-ga",
+  "region": {
+    "sido": "대전광역시",
+    "sigungu": "서구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "복수동",
+      "도마1동",
+      "도마2동",
+      "정림동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "dj-sg-02-na",
+  "region": {
+    "sido": "대전광역시",
+    "sigungu": "서구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "변동",
+      "괴정동",
+      "가장동",
+      "내동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "dj-sg-03-da",
+  "region": {
+    "sido": "대전광역시",
+    "sigungu": "서구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "가수원동",
+      "관저1동",
+      "관저2동",
+      "기성동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "dj-sg-04-ra",
+  "region": {
+    "sido": "대전광역시",
+    "sigungu": "서구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "용문동",
+      "탄방동",
+      "갈마1동",
+      "갈마2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "dj-sg-05-ma",
+  "region": {
+    "sido": "대전광역시",
+    "sigungu": "서구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "둔산1동",
+      "둔산2동",
+      "둔산3동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제5선거구" },
+    "localCouncil":        { "name": "마선거구" }
+  }
+}
+{
+  "id": "dj-sg-06-ba",
+  "region": {
+    "sido": "대전광역시",
+    "sigungu": "서구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "월평1동",
+      "월평2동",
+      "월평3동",
+      "만년동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제6선거구" },
+    "localCouncil":        { "name": "바선거구" }
+  }
+}
+{
+  "id": "dj-ysg-01-ga",
+  "region": {
+    "sido": "대전광역시",
+    "sigungu": "유성구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "진잠동",
+      "학하동",
+      "상대동",
+      "원신흥동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "dj-ysg-02-na",
+  "region": {
+    "sido": "대전광역시",
+    "sigungu": "유성구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "온천1동",
+      "온천2동",
+      "노은1동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "dj-ysg-03-da",
+  "region": {
+    "sido": "대전광역시",
+    "sigungu": "유성구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "노은2동",
+      "노은3동",
+      "신성동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
+{
+  "id": "dj-ysg-04-ra",
+  "region": {
+    "sido": "대전광역시",
+    "sigungu": "유성구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "전민동",
+      "구즉동",
+      "관평동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제4선거구" },
+    "localCouncil":        { "name": "라선거구" }
+  }
+}
+{
+  "id": "dj-ddg-01-ga",
+  "region": {
+    "sido": "대전광역시",
+    "sigungu": "대덕구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "오정동",
+      "대화동",
+      "법1동",
+      "법2동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제1선거구" },
+    "localCouncil":        { "name": "가선거구" }
+  }
+}
+{
+  "id": "dj-ddg-02-na",
+  "region": {
+    "sido": "대전광역시",
+    "sigungu": "대덕구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "회덕동",
+      "신탄진동",
+      "석봉동",
+      "덕암동",
+      "목상동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제2선거구" },
+    "localCouncil":        { "name": "나선거구" }
+  }
+}
+{
+  "id": "dj-ddg-03-da",
+  "region": {
+    "sido": "대전광역시",
+    "sigungu": "대덕구"
+  },
+  "coverage": {
+    "administrativeDongs": [
+      "비래동",
+      "송촌동",
+      "중리동",
+    ]
+  },
+  "electionDistricts": {
+    "metropolitanCouncil": { "name": "제3선거구" },
+    "localCouncil":        { "name": "다선거구" }
+  }
+}
